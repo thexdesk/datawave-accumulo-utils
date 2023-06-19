@@ -5,7 +5,7 @@
         <groupId>gov.nsa.datawave.microservice</groupId>
         <artifactId>datawave-microservice-parent</artifactId>
         <version>1.7</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>accumulo-utils</artifactId>
     <version>1.4-SNAPSHOT</version>
@@ -26,7 +26,7 @@
         <version.authorization-api>1.4</version.authorization-api>
         <version.commons-collections>4.2</version.commons-collections>
         <!-- Guava 15 is needed for Accumulo on the tservers -->
-        <version.guava>15.0</version.guava>
+        <version.guava>32.0.0-android</version.guava>
         <version.in-memory-accumulo>1.9.2.1</version.in-memory-accumulo>
         <version.slf4j>1.7.26</version.slf4j>
         <version.spring>5.0.8.RELEASE</version.spring>
